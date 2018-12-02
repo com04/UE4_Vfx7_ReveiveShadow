@@ -42,8 +42,8 @@ https://www.slideshare.net/com044/ue4translucencyunlit
 - 「シミュレート」再生等でプレイして確認してください
 - 「BP_ShadowMapShadow」をシーンに配置しています  
 このBPでシャドウマップの生成を行っています
-- マテリアルでの処理は「MF_ShadowMapShadow」で行っています
--- MF_ShadowMapShadowの「OrthoWidth」: BP_ShadowMapShadowのSceneCaptureComponent2D - OrthoWidth
+- マテリアルでの処理は「MF_ShadowMapShadow」で行っています  
+-- MF_ShadowMapShadowの「OrthoWidth」: BP_ShadowMapShadowのSceneCaptureComponent2D - OrthoWidth  
 -- MF_ShadowMapShadowの「ShadowMapYAxisMultiplier」: BP_ShadowMapShadowのSceneCaptureComponent2D - TextureTargetに設定されているテクスチャのアスペクト比
 
 
