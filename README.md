@@ -4,6 +4,7 @@
 https://atnd.org/events/101394
 
 - スライド
+https://www.slideshare.net/com044/ue4translucencyunlit
 
 - ※必要に応じてライトビルドしてください
 
